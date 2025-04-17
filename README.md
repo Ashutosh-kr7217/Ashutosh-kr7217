@@ -52,8 +52,7 @@
 [![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashutosh-kr7217&show_icons=true&theme=radical&hide_title=true)](https://github.com/Ashutosh-kr7217)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-kr7217&layout=compact&theme=radical)](https://github.com/Ashutosh-kr7217)
 
-![Snake Animation](https://github.com/Ashutosh-kr7217/Ashutosh-kr7217/blob/output/github-contribution-grid-snake.svg)
-
+![Snake Animation](https://raw.githubusercontent.com/Ashutosh-kr7217/Ashutosh-kr7217/main/dist/github-contribution-snake.svg)
 ---
 
 ## 📚 Research Publications
