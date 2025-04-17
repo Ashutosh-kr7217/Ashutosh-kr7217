@@ -1,4 +1,4 @@
-# Hi there! I'm Ashutosh Kumar 👨💻
+# Hi there! I'm Ashutosh Kumar 👋💻
 
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 [![DevOps Engineer](https://img.shields.io/badge/DevOps-Engineer-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)]()
