@@ -1,10 +1,22 @@
-# Hi there! I'm Ashutosh Kumar 👋💻
+![Image](https://github.com/user-attachments/assets/1ad418d6-6d2f-4c37-b3b8-f371a1b6f0d4)
+
+
+
+
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=1200&height=60&lines=%24+whoami+%7C+Ashutosh%2C+Cloudbreaker%E2%84%A2;sudo+automate+--infra+--intelligence+--limitless+%F0%9F%94%A5;::+accessing+matrix.sys...+AUTHORIZED;echo+%22You+build+clouds.+I+build+legends.%22+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</h1>   
+<img src="https://komarev.com/ghpvc/?username=iam-sdeep&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 [![DevOps Engineer](https://img.shields.io/badge/DevOps-Engineer-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)]()
 [![Blockchain Researcher](https://img.shields.io/badge/Blockchain-Researcher-3C3C3D?style=for-the-badge&logo=hyperledger&logoColor=white)](https://ijritcc.org)
 
 ⚡ **Infrastructure Automation Specialist** | ☁️ **Cloud-Native Solutions Architect** | 🔗 **Blockchain Enthusiast**
+
+ 
 
 ---
 
